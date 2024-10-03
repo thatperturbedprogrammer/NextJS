@@ -1,2 +1,2 @@
 # NextJS
-NextJS 
+Projects made using NextJS 
