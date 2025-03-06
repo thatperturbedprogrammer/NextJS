@@ -1,1 +1,1 @@
-# Projects made using NextJS 
+# NextJS Journey
